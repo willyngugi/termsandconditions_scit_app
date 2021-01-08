@@ -1,0 +1,29 @@
+body 
+{ 
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	align-items: center;
+	background: #0000ff;
+}
+
+.login{
+	text-align: center;
+	width: 550px;
+	box-sizing: border-box;
+	padding: 40px;
+	background: #fff;
+
+}
+
+
+.login img{
+	width: 150px;
+	height: 94px;
+}
+.login .input-group span {
+	padding: 0 20px;
+	text-align: left;
+}
